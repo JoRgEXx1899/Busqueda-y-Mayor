@@ -1,2 +1,4 @@
 # Busqueda-y-Mayor
-Programa que teien 2 funcionesbusca si en un arreglo existe un número 
+Programa que tiene 2 funciones:
+1. Busca si en un arreglo existe un número
+2. Oredena un arreglo, busca y muestra el numero mayor y su sucesor.
